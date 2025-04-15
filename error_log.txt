@@ -1,0 +1,1367 @@
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/88b79700-329f-4e43-9a8d-3326c4c106fe
+Organization: «Երևանի Մխիթար Հերացու անվան պետական բժշկական համալսարան» հիմնադրամ
+Contract Codes:
+searching id is ՄԱԾՁԲ-2024/29-ԵՊԲՀ
+Created TensorFlow Lite XNNPACK delegate for CPU.
+Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Clicking on file: [2024-05-17] Smartsoft.pdf
+File renamed successfully to: ՄԱԾՁԲ-2024_29-ԵՊԲՀ.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի Մխիթար Հերացու անվան պետական բժշկական համալսարան» հիմնադրամ
+Moved ՄԱԾՁԲ-2024_29-ԵՊԲՀ.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի Մխիթար Հերացու անվան պետական բժշկական համալսարան» հիմնադրամ
+searching id is ՄԱԾՁԲ-2021/20-ԵՊԲՀ
+Clicking on file: [2021-03-31] Պայմանագիր.PDF
+File renamed successfully to: ՄԱԾՁԲ-2021_20-ԵՊԲՀ.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի Մխիթար Հերացու անվան պետական բժշկական համալսարան» հիմնադրամ
+Moved ՄԱԾՁԲ-2021_20-ԵՊԲՀ.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի Մխիթար Հերացու անվան պետական բժշկական համալսարան» հիմնադրամ
+searching id is ՄԱԾՁԲ-2022/19-ԵՊԲՀ
+Clicking on file: [2022-01-17] Paymanagir.pdf
+File renamed successfully to: ՄԱԾՁԲ-2022_19-ԵՊԲՀ.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի Մխիթար Հերացու անվան պետական բժշկական համալսարան» հիմնադրամ
+Moved ՄԱԾՁԲ-2022_19-ԵՊԲՀ.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի Մխիթար Հերացու անվան պետական բժշկական համալսարան» հիմնադրամ
+------------------------------
+Organization: «Երևանի Ջերմաէլեկտրակենտրոն» ՓԲԸ
+Contract Codes:
+searching id is ԵՋԷԿ-ՄԱԾՁԲ-2024/1
+Clicking on file: [2024-01-24] Պայմանագիր.pdf
+File renamed successfully to: ԵՋԷԿ-ՄԱԾՁԲ-2024_1.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի Ջերմաէլեկտրակենտրոն» ՓԲԸ
+Moved ԵՋԷԿ-ՄԱԾՁԲ-2024_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի Ջերմաէլեկտրակենտրոն» ՓԲԸ
+Clicking on file: [2024-10-01] Համաձայանագիր.pdf
+File renamed successfully to: ԵՋԷԿ-ՄԱԾՁԲ-2024_1_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի Ջերմաէլեկտրակենտրոն» ՓԲԸ
+Moved ԵՋԷԿ-ՄԱԾՁԲ-2024_1_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի Ջերմաէլեկտրակենտրոն» ՓԲԸ
+searching id is ԵՋԷԿ-ՄԱԾՁԲ-24/22
+Clicking on file: [2024-03-25] Հոսթինգ պայմանագիր.pdf
+File renamed successfully to: ԵՋԷԿ-ՄԱԾՁԲ-24_22.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի Ջերմաէլեկտրակենտրոն» ՓԲԸ
+Moved ԵՋԷԿ-ՄԱԾՁԲ-24_22.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի Ջերմաէլեկտրակենտրոն» ՓԲԸ
+------------------------------
+Organization: «Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+Contract Codes:
+searching id is ԵՐՄՄԳ-ՄԱԾՁԲ-ԾՐՍՊԱՍԱՐԿՈՒՄ-2024-1
+Clicking on file: [2024-02-12] ԱՁ ԴԱՎԻԹ ԱՄԱՏՈՒՆԻ.pdf
+File renamed successfully to: ԵՐՄՄԳ-ՄԱԾՁԲ-ԾՐՍՊԱՍԱՐԿՈՒՄ-2024-1.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+Moved ԵՐՄՄԳ-ՄԱԾՁԲ-ԾՐՍՊԱՍԱՐԿՈՒՄ-2024-1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+searching id is ԵՐՄՄԳ–ՄԱԾՁԲ–ՍՊԱՍԱՐԿՈՒՄ–2023-1
+Clicking on file: [2023-01-31] Amatuni.pdf
+File renamed successfully to: ԵՐՄՄԳ–ՄԱԾՁԲ–ՍՊԱՍԱՐԿՈՒՄ–2023-1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+Moved ԵՐՄՄԳ–ՄԱԾՁԲ–ՍՊԱՍԱՐԿՈՒՄ–2023-1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+searching id is ԵՐՄՄԳ-ՄԱԾՁԲ-ՍՊԱՍԱՐԿՈՒՄ-2022-9
+searching id is ԵՐՄՄԳ-ՄԱԾՁԲ-ԻՐՏԵԿ-2024 -1
+Clicking on file: [2024-10-01] ԻՐՏԵԿ_signed_signed_signed.pdf
+File renamed successfully to: ԵՐՄՄԳ-ՄԱԾՁԲ-ԻՐՏԵԿ-2024 -1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+Moved ԵՐՄՄԳ-ՄԱԾՁԲ-ԻՐՏԵԿ-2024 -1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+searching id is A 3687502379
+Clicking on file: [2024-11-07] Հայկական ծրագրեր.pdf
+File renamed successfully to: A 3687502379.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+Moved A 3687502379.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+searching id is A 4394187555
+Clicking on file: [2024-06-28] Հայկական Ծրագրեր.pdf
+File renamed successfully to: A 4394187555.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+Moved A 4394187555.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+searching id is Ա5506737226
+Clicking on file: [2021-06-15] ՀԾ.PDF
+File renamed successfully to: Ա5506737226.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+Moved Ա5506737226.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+searching id is Ա 7229558252
+Clicking on file: [2021-11-03] HASHIV.pdf
+File renamed successfully to: Ա 7229558252.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+Moved Ա 7229558252.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+searching id is Ա 2386791361
+Clicking on file: [2022-06-29] hashiv 555.pdf
+File renamed successfully to: Ա 2386791361.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+Moved Ա 2386791361.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+searching id is Ա 2394706344
+Clicking on file: [2022-11-03] ՀԾ.pdf
+File renamed successfully to: Ա 2394706344.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+Moved Ա 2394706344.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+searching id is Ա8232218677
+Clicking on file: [2023-06-28] HASHIV HC.pdf
+File renamed successfully to: Ա8232218677.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+Moved Ա8232218677.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+searching id is A7076198846
+Clicking on file: [2023-11-02] ՀԾ scan.pdf
+File renamed successfully to: A7076198846.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+Moved A7076198846.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի մաթեմատիկական մեքենաների գործարան» ՓԲԸ
+------------------------------
+Organization: «Երևանի պետական համալսարան» հիմնադրամ
+Contract Codes:
+searching id is ԵՊՀ-ՄԱԾՁԲ-24/10
+Clicking on file: [2024-01-18] OriginLab_EULA_Signed_01_17_24_2401111523_signed.pdf
+File renamed successfully to: ԵՊՀ-ՄԱԾՁԲ-24_10.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի պետական համալսարան» հիմնադրամ
+Moved ԵՊՀ-ՄԱԾՁԲ-24_10.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի պետական համալսարան» հիմնադրամ
+searching id is ԵՊՀ-ՄԱԾՁԲ-23/121
+Clicking on file: [2023-11-30] Պայմանագիր Դիջիդոգ ՍՊԸ 23-121.PDF
+File renamed successfully to: ԵՊՀ-ՄԱԾՁԲ-23_121.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի պետական համալսարան» հիմնադրամ
+Moved ԵՊՀ-ՄԱԾՁԲ-23_121.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի պետական համալսարան» հիմնադրամ
+searching id is ԵՊՀ-ՄԱԱՊՁԲ-23/120
+Clicking on file: [2023-11-30] Պայմանագիր Նորայր Ասլանյան 23-12.PDF
+File renamed successfully to: ԵՊՀ-ՄԱԱՊՁԲ-23_120.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի պետական համալսարան» հիմնադրամ
+Moved ԵՊՀ-ՄԱԱՊՁԲ-23_120.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի պետական համալսարան» հիմնադրամ
+searching id is ԵՊՀ-ՄԱԾՁԲ-24/24
+Button with ID 'scanMenu1' found, returning early.
+searching id is «ԵՊՀ-ՄԱԾՁԲ-24/206»
+Clicking on file: [2024-10-15] INVOICE 24.206.pdf
+File renamed successfully to: «ԵՊՀ-ՄԱԾՁԲ-24_206».pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի պետական համալսարան» հիմնադրամ
+Moved «ԵՊՀ-ՄԱԾՁԲ-24_206».pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Երևանի պետական համալսարան» հիմնադրամ
+------------------------------
+Organization: «Հայաէրոնավիգացիա» ՓԲԸ
+Contract Codes:
+searching id is ՀԱՆ-ՄԱԾՁԲ-06/21
+Clicking on file: [2021-02-05] 2.07 FREQUENTIS.PDF
+File renamed successfully to: ՀԱՆ-ՄԱԾՁԲ-06_21.PDF
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաէրոնավիգացիա» ՓԲԸ
+Moved ՀԱՆ-ՄԱԾՁԲ-06_21.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաէրոնավիգացիա» ՓԲԸ
+searching id is 201818460
+Clicking on file: [2024-01-11] 2.02_Frequentis.AG.PDF
+File renamed successfully to: 201818460.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաէրոնավիգացիա» ՓԲԸ
+Moved 201818460.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաէրոնավիգացիա» ՓԲԸ
+searching id is 201733476
+Clicking on file: [2020-02-10] 2.10 IRTEK.PDF
+File renamed successfully to: 201733476.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաէրոնավիգացիա» ՓԲԸ
+Moved 201733476.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաէրոնավիգացիա» ՓԲԸ
+------------------------------
+Organization: «Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Contract Codes:
+searching id is ՀՀՀ-ՄԱԾՁԲ-23/11-Պ
+Clicking on file: [2023-01-17] Պայմանագիր՝ Համակարգչային պարագաներ և նյութեր Fortigate-ստորագրված.pdf
+File renamed successfully to: ՀՀՀ-ՄԱԾՁԲ-23_11-Պ.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Moved ՀՀՀ-ՄԱԾՁԲ-23_11-Պ.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+searching id is P-08/24
+Clicking on file: [2024-03-01] Պայմանագիր Two rivrers.pdf
+File renamed successfully to: P-08_24.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Moved P-08_24.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+searching id is 2014/0109
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՀՀՀ-ՄԱԾՁԲ-23/112-Պ
+Clicking on file: [2023-09-05] Պայմանագիր՝ Արէներգո ՍՊԸ - համակարգչային ծրագրի մշակում-Կինոմեղեդի-ստորագրված.pdf
+File renamed successfully to: ՀՀՀ-ՄԱԾՁԲ-23_112-Պ.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Moved ՀՀՀ-ՄԱԾՁԲ-23_112-Պ.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+searching id is 2014/01/09
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՀՀՀ-ՄԱԾՁԲ-24/69-Հ
+Clicking on file: [2024-03-04] Invoice.pdf
+File renamed successfully to: ՀՀՀ-ՄԱԾՁԲ-24_69-Հ.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Moved ՀՀՀ-ՄԱԾՁԲ-24_69-Հ.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+searching id is ՀՀՀ-ՄԱԾՁԲ-24/73-Հ
+Clicking on file: [2024-03-26] Invoice.pdf
+File renamed successfully to: ՀՀՀ-ՄԱԾՁԲ-24_73-Հ.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Moved ՀՀՀ-ՄԱԾՁԲ-24_73-Հ.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+searching id is ՀՀՀ-ՄԱԾՁԲ-23/130-Հ
+Clicking on file: [2023-10-11] Հաշիվ.pdf
+File renamed successfully to: ՀՀՀ-ՄԱԾՁԲ-23_130-Հ.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Moved ՀՀՀ-ՄԱԾՁԲ-23_130-Հ.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+searching id is 201767653
+Clicking on file: [2021-08-02] Պայմանագիր՝ Հայկական ծրագրեր-3 լիցենզիա, 02.08.2021-ստորագրված.pdf
+File renamed successfully to: 201767653.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Moved 201767653.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+searching id is ՀՀՀ-ՄԱԾՁԲ-23/89-Պ
+Clicking on file: [2023-08-09] Պայմանագիր՝ ԱՁ Մանե Մխոյան-Հաղորդավար-Ֆեստիվառ Գավառ-ստորագրված.pdf
+File renamed successfully to: ՀՀՀ-ՄԱԾՁԲ-23_89-Պ.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Moved ՀՀՀ-ՄԱԾՁԲ-23_89-Պ.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+searching id is ՀՀՀ-ՄԱԾՁԲ-23/53-Հ
+Clicking on file: [2023-05-30] Հաշիվ.pdf
+File renamed successfully to: ՀՀՀ-ՄԱԾՁԲ-23_53-Հ.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Moved ՀՀՀ-ՄԱԾՁԲ-23_53-Հ.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+searching id is СЛ-2104/35
+Clicking on file: [2021-04-30] Պայմանագիր՝ Softlab- լիցենզիա-ստորագրված.pdf
+File renamed successfully to: СЛ-2104_35.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Moved СЛ-2104_35.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+searching id is ՀՀՀ-ՄԱԾՁԲ-20/17-Պ
+Clicking on file: [2020-02-21] Պայմանագիր՝ ԱՁ Աշոտ Կլեկչյան_ Դու գիտես 2020 ստորագրված.pdf
+File renamed successfully to: ՀՀՀ-ՄԱԾՁԲ-20_17-Պ.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Moved ՀՀՀ-ՄԱԾՁԲ-20_17-Պ.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+searching id is ՀՀՀ-ՄԱԾՁԲ-23/52-Հ
+Clicking on file: [2023-03-28] Հաշիվ.pdf
+File renamed successfully to: ՀՀՀ-ՄԱԾՁԲ-23_52-Հ.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Moved ՀՀՀ-ՄԱԾՁԲ-23_52-Հ.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+searching id is 2021/0305
+Clicking on file: [2021-03-05] Արձանագրություն՝ Հայկական ծրագրեր ՍՊԸ-լիցենզիայի ավելացում-2021-ստորագրված.pdf
+File renamed successfully to: 2021_0305.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Moved 2021_0305.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+searching id is 2021/0510
+Clicking on file: [2021-05-10] Հայկական ծրագրեր.pdf
+File renamed successfully to: 2021_0510.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+Moved 2021_0510.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային Հեռուստաընկերություն» ՓԲԸ
+------------------------------
+Organization: «Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+Contract Codes:
+searching id is ՀՀՌ-ՄԱԾՁԲ-23/17
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՀՀՌ-ՄԱԾՁԲ-22/34
+Clicking on file: [2022-02-04] պայմանագիր 2234.pdf
+File renamed successfully to: ՀՀՌ-ՄԱԾՁԲ-22_34.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+Moved ՀՀՌ-ՄԱԾՁԲ-22_34.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+searching id is ՀՀՌ-ՄԱԾՁԲ-21/36
+Clicking on file: [2021-02-22] ՎԷԲ Ստուդիո պայմանագիր 2136.pdf
+File renamed successfully to: ՀՀՌ-ՄԱԾՁԲ-21_36.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+Moved ՀՀՌ-ՄԱԾՁԲ-21_36.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+searching id is ՀՀՌ-ՄԱԾՁԲ-24/39
+Clicking on file: [2024-02-02] պայմանագիր Նաղաշյան.pdf
+File renamed successfully to: ՀՀՌ-ՄԱԾՁԲ-24_39.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+Moved ՀՀՌ-ՄԱԾՁԲ-24_39.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+searching id is ՀՀՌ-ՄԱԾՁԲ-23/192
+Clicking on file: [2023-07-18] tmp2753649592267099583.pdf
+File renamed successfully to: ՀՀՌ-ՄԱԾՁԲ-23_192.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+Moved ՀՀՌ-ՄԱԾՁԲ-23_192.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+searching id is ՀՀՌ-ՄԱԾՁԲ-24/22
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՀՀՌ-ՄԱԾՁԲ-24/40
+Clicking on file: [2024-02-29] export (63).pdf
+File renamed successfully to: ՀՀՌ-ՄԱԾՁԲ-24_40.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+Moved ՀՀՌ-ՄԱԾՁԲ-24_40.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+searching id is ՀՀՌ-ՄԱԾՁԲ-24/66
+Clicking on file: [2024-03-07] Պայմանագիր.pdf
+File renamed successfully to: ՀՀՌ-ՄԱԾՁԲ-24_66.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+Moved ՀՀՌ-ՄԱԾՁԲ-24_66.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+searching id is ՀՀՌ-ՄԱԾՁԲ-20/131
+Clicking on file: [2020-08-17] Գեղամ Սարգսյան.pdf
+File renamed successfully to: ՀՀՌ-ՄԱԾՁԲ-20_131.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+Moved ՀՀՌ-ՄԱԾՁԲ-20_131.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հանրային ռադիոընկերություն» ՓԲԸ
+------------------------------
+Organization: «Հայաստանի հեռուստատեսային և ռադիոհաղորդիչ ցանց» ՓԲԸ
+Contract Codes:
+searching id is 24/2806
+Clicking on file: [2024-07-22] Պայմանագիր-հաստատված.pdf
+File renamed successfully to: 24_2806.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հեռուստատեսային և ռադիոհաղորդիչ ցանց» ՓԲԸ
+Moved 24_2806.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հեռուստատեսային և ռադիոհաղորդիչ ցանց» ՓԲԸ
+searching id is 201730268
+Clicking on file: [2020-01-13] Բոֆֆո ՍՊԸ.pdf
+File renamed successfully to: 201730268.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հեռուստատեսային և ռադիոհաղորդիչ ցանց» ՓԲԸ
+Moved 201730268.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի հեռուստատեսային և ռադիոհաղորդիչ ցանց» ՓԲԸ
+------------------------------
+Organization: «Հայաստանի պետական հետաքրքրությունների ֆոնդ» ՓԲԸ
+Contract Codes:
+searching id is H2021/0211
+Clicking on file: [2021-02-11] ՀԾ.pdf
+File renamed successfully to: H2021_0211.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի պետական հետաքրքրությունների ֆոնդ» ՓԲԸ
+Moved H2021_0211.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի պետական հետաքրքրությունների ֆոնդ» ՓԲԸ
+searching id is 9296314638
+Clicking on file: [2023-06-19] tmp5302868859275697159.pdf
+File renamed successfully to: 9296314638.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի պետական հետաքրքրությունների ֆոնդ» ՓԲԸ
+Moved 9296314638.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի պետական հետաքրքրությունների ֆոնդ» ՓԲԸ
+------------------------------
+Organization: «Հայաստանի վերականգնվող էներգետիկայի և էներգախնայողության» հիմնադրամ
+Contract Codes:
+searching id is 201809564
+Clicking on file: [2023-09-08] tmp8174512139670175539.pdf
+File renamed successfully to: 201809564.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի վերականգնվող էներգետիկայի և էներգախնայողության» հիմնադրամ
+Moved 201809564.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայաստանի վերականգնվող էներգետիկայի և էներգախնայողության» հիմնադրամ
+------------------------------
+Organization: «Հայատոմ» ԳՀԻ ՓԲԸ
+Contract Codes:
+searching id is 201750134
+Clicking on file: [2020-11-18] tmp8644879717668558050.pdf
+File renamed successfully to: 201750134.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայատոմ» ԳՀԻ ՓԲԸ
+Moved 201750134.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայատոմ» ԳՀԻ ՓԲԸ
+searching id is ՀԱ-ՄԱԾՁԲ-23/13
+Clicking on file: [2023-10-25] 764f3b7b-9ef7-45bd-9222-bf2856108dfb.pdf
+File renamed successfully to: ՀԱ-ՄԱԾՁԲ-23_13.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայատոմ» ԳՀԻ ՓԲԸ
+Moved ՀԱ-ՄԱԾՁԲ-23_13.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայատոմ» ԳՀԻ ՓԲԸ
+searching id is ՀԱ-ՄԱԾՁԲ-24/13
+Clicking on file: [2024-10-25] bcc79c24-fb16-4e34-8434-16aa329d4da7.pdf
+File renamed successfully to: ՀԱ-ՄԱԾՁԲ-24_13.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայատոմ» ԳՀԻ ՓԲԸ
+Moved ՀԱ-ՄԱԾՁԲ-24_13.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայատոմ» ԳՀԻ ՓԲԸ
+searching id is 201745704
+Clicking on file: [2020-08-14] tmp5104942852552828515.pdf
+File renamed successfully to: 201745704.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայատոմ» ԳՀԻ ՓԲԸ
+Moved 201745704.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայատոմ» ԳՀԻ ՓԲԸ
+searching id is ՀԱ-ՄԱԾՁԲ-24/10
+Clicking on file: [2024-06-19] c 24-10.pdf
+File renamed successfully to: ՀԱ-ՄԱԾՁԲ-24_10.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայատոմ» ԳՀԻ ՓԲԸ
+Moved ՀԱ-ՄԱԾՁԲ-24_10.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայատոմ» ԳՀԻ ՓԲԸ
+searching id is 201761642
+Clicking on file: [2021-08-16] tmp1526218778092780799.pdf
+File renamed successfully to: 201761642.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայատոմ» ԳՀԻ ՓԲԸ
+Moved 201761642.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայատոմ» ԳՀԻ ՓԲԸ
+------------------------------
+Organization: «Հայկական ատոմային էլեկտրակայան» ՓԲԸ
+Contract Codes:
+searching id is 201777962
+Clicking on file: [2022-04-26] 03-26-«Ատոմային էլեկտրակայանների շահագործման հայկական գիտահետազոտական ինստիտուտ» ՓԲԸ.pdf
+File renamed successfully to: 201777962.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայկական ատոմային էլեկտրակայան» ՓԲԸ
+Moved 201777962.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայկական ատոմային էլեկտրակայան» ՓԲԸ
+searching id is 201746789
+Clicking on file: [2020-09-07] Ֆիքսիթ իթ Քօմփանի-ՍՊԸ-03-64.pdf
+There is not exactly one file in the folder.
+['download-attachment (1).pdf', 'download-attachment.pdf']
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայկական ատոմային էլեկտրակայան» ՓԲԸ
+Moved download-attachment (1).pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայկական ատոմային էլեկտրակայան» ՓԲԸ
+Moved download-attachment.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հայկական ատոմային էլեկտրակայան» ՓԲԸ
+------------------------------
+Organization: «Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+Contract Codes:
+searching id is ՀՀԽԱ-ՄԱԾՁԲ-01/24
+Clicking on file: [2024-01-24] ՎիԻքսՍոֆթ պայմանագիր.PDF
+File renamed successfully to: ՀՀԽԱ-ՄԱԾՁԲ-01_24.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+Moved ՀՀԽԱ-ՄԱԾՁԲ-01_24.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+searching id is ՀՀՀՌ-ՄԱԾՁԲ-14/20
+Clicking on file: [2020-07-30] Պայմանագիր_մալբերի.PDF
+File renamed successfully to: ՀՀՀՌ-ՄԱԾՁԲ-14_20.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+Moved ՀՀՀՌ-ՄԱԾՁԲ-14_20.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+searching id is ՀՀԽԱ-ՄԱԾՁԲ-12/24
+Clicking on file: [2024-05-21] Պայմանագիր.pdf
+File renamed successfully to: ՀՀԽԱ-ՄԱԾՁԲ-12_24.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+Moved ՀՀԽԱ-ՄԱԾՁԲ-12_24.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+searching id is Ա9479495512
+Clicking on file: [2020-05-27] Ա9479495512.pdf
+File renamed successfully to: Ա9479495512.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+Moved Ա9479495512.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+searching id is Ա2741089801
+Clicking on file: [2021-06-14] Invoice_ՀԾ.pdf
+File renamed successfully to: Ա2741089801.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+Moved Ա2741089801.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+searching id is Ա8798786621
+Clicking on file: [2022-06-14] HCinv.pdf
+File renamed successfully to: Ա8798786621.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+Moved Ա8798786621.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+searching id is ՀՀԽԱ-ՄԱԾՁԲ-09/23
+Clicking on file: [2023-06-08] Պայմանագիր_ՀՀԽԱ-ՄԱԾՁԲ-0923 pdf.PDF
+File renamed successfully to: ՀՀԽԱ-ՄԱԾՁԲ-09_23.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+Moved ՀՀԽԱ-ՄԱԾՁԲ-09_23.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հանրային հեռարձակողի խորհրդի աշխատակազմ» ՊՀ
+------------------------------
+Organization: «Հաշվարկային կենտրոն» ՓԲԸ
+Contract Codes:
+searching id is ՀԿՓԲԸ-ՄԱԱՊՁԲ-20/10
+Clicking on file: [2020-04-01] Հարկային հաշիվ.pdf
+File renamed successfully to: ՀԿՓԲԸ-ՄԱԱՊՁԲ-20_10.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հաշվարկային կենտրոն» ՓԲԸ
+Moved ՀԿՓԲԸ-ՄԱԱՊՁԲ-20_10.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հաշվարկային կենտրոն» ՓԲԸ
+searching id is ՀԿՓԲԸ-ՄԱԱՊՁԲ-23/10
+Clicking on file: [2023-06-13] Հարկային հաշիվ.pdf
+File renamed successfully to: ՀԿՓԲԸ-ՄԱԱՊՁԲ-23_10.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հաշվարկային կենտրոն» ՓԲԸ
+Moved ՀԿՓԲԸ-ՄԱԱՊՁԲ-23_10.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հաշվարկային կենտրոն» ՓԲԸ
+searching id is ՀԿՓԲԸ-ՄԱԱՊՁԲ-21/25
+Clicking on file: [2021-12-24] Հարկային հաշիվ.pdf
+File renamed successfully to: ՀԿՓԲԸ-ՄԱԱՊՁԲ-21_25.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հաշվարկային կենտրոն» ՓԲԸ
+Moved ՀԿՓԲԸ-ՄԱԱՊՁԲ-21_25.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Հաշվարկային կենտրոն» ՓԲԸ
+------------------------------
+Organization: «Միջուկային և ռադիացիոն անվտանգության գիտատեխնիկական կենտրոն» ՓԲԸ
+Contract Codes:
+searching id is Ա6794801039
+Clicking on file: [2020-07-18] tmp1170040694360937011.pdf
+File renamed successfully to: Ա6794801039.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Միջուկային և ռադիացիոն անվտանգության գիտատեխնիկական կենտրոն» ՓԲԸ
+Moved Ա6794801039.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Միջուկային և ռադիացիոն անվտանգության գիտատեխնիկական կենտրոն» ՓԲԸ
+------------------------------
+Organization: «ՆԵՐԴՐՈՒՄՆԵՐԻ ԱՋԱԿՑՄԱՆ ԿԵՆՏՐՈՆ» ՀԻՄՆԱԴՐԱՄ
+Contract Codes:
+searching id is ՆԱԿ-ՄԱԾՁԲ-19/23
+Clicking on file: [2023-04-25] paymanagir.pdf
+File renamed successfully to: ՆԱԿ-ՄԱԾՁԲ-19_23.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«ՆԵՐԴՐՈՒՄՆԵՐԻ ԱՋԱԿՑՄԱՆ ԿԵՆՏՐՈՆ» ՀԻՄՆԱԴՐԱՄ
+Moved ՆԱԿ-ՄԱԾՁԲ-19_23.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«ՆԵՐԴՐՈՒՄՆԵՐԻ ԱՋԱԿՑՄԱՆ ԿԵՆՏՐՈՆ» ՀԻՄՆԱԴՐԱՄ
+searching id is ՆԱԿ-ՄԱԾՁԲ-09/22
+Clicking on file: [2022-03-01] պայմ.pdf
+File renamed successfully to: ՆԱԿ-ՄԱԾՁԲ-09_22.crdownload
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«ՆԵՐԴՐՈՒՄՆԵՐԻ ԱՋԱԿՑՄԱՆ ԿԵՆՏՐՈՆ» ՀԻՄՆԱԴՐԱՄ
+Moved ՆԱԿ-ՄԱԾՁԲ-09_22.crdownload to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«ՆԵՐԴՐՈՒՄՆԵՐԻ ԱՋԱԿՑՄԱՆ ԿԵՆՏՐՈՆ» ՀԻՄՆԱԴՐԱՄ
+searching id is ՆԱԿ-ՄԱԾՁԲ-24/02
+Clicking on file: [2024-05-02] 02.pdf
+File renamed successfully to: ՆԱԿ-ՄԱԾՁԲ-24_02.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«ՆԵՐԴՐՈՒՄՆԵՐԻ ԱՋԱԿՑՄԱՆ ԿԵՆՏՐՈՆ» ՀԻՄՆԱԴՐԱՄ
+Moved ՆԱԿ-ՄԱԾՁԲ-24_02.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«ՆԵՐԴՐՈՒՄՆԵՐԻ ԱՋԱԿՑՄԱՆ ԿԵՆՏՐՈՆ» ՀԻՄՆԱԴՐԱՄ
+searching id is ՆԱԿ-ՄԱԾՁԲ-09/21
+Clicking on file: [2021-02-25] paymanagir.pdf
+File renamed successfully to: ՆԱԿ-ՄԱԾՁԲ-09_21.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«ՆԵՐԴՐՈՒՄՆԵՐԻ ԱՋԱԿՑՄԱՆ ԿԵՆՏՐՈՆ» ՀԻՄՆԱԴՐԱՄ
+Moved ՆԱԿ-ՄԱԾՁԲ-09_21.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«ՆԵՐԴՐՈՒՄՆԵՐԻ ԱՋԱԿՑՄԱՆ ԿԵՆՏՐՈՆ» ՀԻՄՆԱԴՐԱՄ
+searching id is ՆԱԿ-ՄԱԾՁԲ-16/21
+Clicking on file: [2021-05-07] պայմ 16-21.pdf
+There is not exactly one file in the folder.
+['download-attachment.pdf', 'paymanagir.pdf']
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«ՆԵՐԴՐՈՒՄՆԵՐԻ ԱՋԱԿՑՄԱՆ ԿԵՆՏՐՈՆ» ՀԻՄՆԱԴՐԱՄ
+Moved download-attachment.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«ՆԵՐԴՐՈՒՄՆԵՐԻ ԱՋԱԿՑՄԱՆ ԿԵՆՏՐՈՆ» ՀԻՄՆԱԴՐԱՄ
+Moved paymanagir.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«ՆԵՐԴՐՈՒՄՆԵՐԻ ԱՋԱԿՑՄԱՆ ԿԵՆՏՐՈՆ» ՀԻՄՆԱԴՐԱՄ
+------------------------------
+Organization: «Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+Contract Codes:
+searching id is ՀՀ ԼՄՎՀ ՄԱԾՁԲ-24/05
+Clicking on file: [2023-12-28] paym 24-05.pdf
+File renamed successfully to: ՀՀ ԼՄՎՀ ՄԱԾՁԲ-24_05.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+Moved ՀՀ ԼՄՎՀ ՄԱԾՁԲ-24_05.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+searching id is ՀՀ ԼՄՎՔ ՄԱ ԾՁԲ 20/17
+Clicking on file: [2020-01-23] 20-17 Հ.pdf
+File renamed successfully to: ՀՀ ԼՄՎՔ ՄԱ ԾՁԲ 20_17.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+Moved ՀՀ ԼՄՎՔ ՄԱ ԾՁԲ 20_17.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+Clicking on file: [2020-01-23] 2-17 պ.pdf
+File renamed successfully to: ՀՀ ԼՄՎՔ ՄԱ ԾՁԲ 20_17_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+Moved ՀՀ ԼՄՎՔ ՄԱ ԾՁԲ 20_17_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+searching id is ՀՀ ԼՄՎՔ ՄԱԾՁԲ-21/20
+Clicking on file: [2021-01-20] Paym 21-20.pdf
+File renamed successfully to: ՀՀ ԼՄՎՔ ՄԱԾՁԲ-21_20.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+Moved ՀՀ ԼՄՎՔ ՄԱԾՁԲ-21_20.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+Clicking on file: [2021-01-22] համաձայնագիր 21-20.pdf
+File renamed successfully to: ՀՀ ԼՄՎՔ ՄԱԾՁԲ-21_20_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+Moved ՀՀ ԼՄՎՔ ՄԱԾՁԲ-21_20_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+searching id is ՀՀ ԼՄՎՔ ՄԱԾՁԲ-22/12
+Clicking on file: [2022-06-14] պայմանագրի 22-12.pdf
+File renamed successfully to: ՀՀ ԼՄՎՔ ՄԱԾՁԲ-22_12.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+Moved ՀՀ ԼՄՎՔ ՄԱԾՁԲ-22_12.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+searching id is ՀՀ ԼՄՎՔ ՄԱԾՁԲ-22/62
+Clicking on file: [2022-09-26] paymanagir 22-62.pdf
+File renamed successfully to: ՀՀ ԼՄՎՔ ՄԱԾՁԲ-22_62.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+Moved ՀՀ ԼՄՎՔ ՄԱԾՁԲ-22_62.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+searching id is ՀՀ ԼՄՎՔ ՄԱԾՁԲ-23/09
+Clicking on file: [2023-01-24] paymanagir 23-09.pdf
+File renamed successfully to: ՀՀ ԼՄՎՔ ՄԱԾՁԲ-23_09.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+Moved ՀՀ ԼՄՎՔ ՄԱԾՁԲ-23_09.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\«Վանաձորի համայնքապետարանի աշխատակազմ» ՀԿՀ
+------------------------------
+Organization: Աշտարակի համայնքապետարան
+Contract Codes:
+searching id is 35/5
+Button with ID 'scanMenu1' found, returning early.
+searching id is 201730286
+Clicking on file: [2020-01-15] File.PDF
+File renamed successfully to: 201730286.PDF
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Աշտարակի համայնքապետարան
+Moved 201730286.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Աշտարակի համայնքապետարան
+------------------------------
+Organization: Դատական դեպարտամենտ
+Contract Codes:
+searching id is ԴԴ-ՄԱԾՁԲ-24/07
+Clicking on file: [2024-02-26] Scan.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-24_07.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-24_07.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Clicking on file: [2024-02-26] DD-MACDzB-24_07.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-24_07_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-24_07_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-23/10
+Clicking on file: [2023-03-22] DD-MACDzB-23_10.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-23_10.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-23_10.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-22/13
+Clicking on file: [2022-04-15] DD-MACDzB-22_13.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-22_13.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-22_13.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-21/01
+Clicking on file: [2021-02-04] DD-MATsDzB-21-01.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-21_01.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-21_01.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-20/08
+Clicking on file: [2020-05-26] DD-MATsDzB-20-08.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-20_08.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-20_08.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Clicking on file: [2020-05-26] Hamadzaynagir-DD-MATsDzB-20-08.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-20_08_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-20_08_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-23/21
+Clicking on file: [2023-06-22] DD-MACDzB-23_10.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-23_21.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-23_21.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Clicking on file: [2023-06-22] Պայմանագիր ԴԱՀ-Մեյսիսի 23--21.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-23_21_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-23_21_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-22/19
+Clicking on file: [2022-08-29] DD-MACDzB-22_19.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-22_19.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-22_19.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-23/06
+Clicking on file: [2023-01-31] DD-MACDzB-23_06.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-23_06.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-23_06.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-23/02
+Clicking on file: [2023-01-23] Paymanagir23.02.pdf
+There is not exactly one file in the folder.
+['DD-MACDzB-23_06.pdf', 'Paymanagir23.02.pdf']
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved DD-MACDzB-23_06.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved Paymanagir23.02.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-24/08
+Clicking on file: [2024-03-01] Paymanagir.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-24_08.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-24_08.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-22/05
+Clicking on file: [2022-02-03] DD-MACDzB-22_05.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-22_05.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-22_05.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Clicking on file: [2022-02-03] Hamadzaynagir-DD-MACDzB-22_05-1.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-22_05_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-22_05_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-23/19
+Clicking on file: [2023-06-01] Paymanagir HC.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-23_19.crdownload
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved Paymanagir HC.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-21/03
+Clicking on file: [2021-02-15] Mulberry_paymanagir.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-21_03.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-21_03.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-22/06
+Clicking on file: [2022-02-07] Paymanagir_DD-MATsDzB_22-06.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-22_06.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-22_06.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Clicking on file: [2022-02-07] Hamadzaynagir N1_DD-MATsDzB-22-06.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-22_06_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-22_06_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-22/14
+Clicking on file: [2022-04-29] DD-MACDzB-22_14.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-22_14.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-22_14.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-24/22
+Clicking on file: [2024-09-30] Paymanagir.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-24_22.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-24_22.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-24/10
+Clicking on file: [2024-03-26] Paymanagir.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-24_10.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-24_10.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-24/17
+Clicking on file: [2024-07-01] Paymanagir.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-24_17.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-24_17.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-20/05
+Clicking on file: [2020-03-20] IRTEK 2007.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-20_05.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-20_05.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Clicking on file: [2020-03-20] Paymanagir-DD-MATsDzB-20-05.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-20_05_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-20_05_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-22/08
+Clicking on file: [2022-02-28] DD-MACDzB-22_08.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-22_08.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-22_08.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+searching id is ԴԴ-ՄԱԾՁԲ-21/11
+Clicking on file: [2021-07-01] DD-MATsDzB-21_11.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-21_11.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-21_11.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Clicking on file: [2021-07-01] IRTEK 2007.pdf
+File renamed successfully to: ԴԴ-ՄԱԾՁԲ-21_11_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+Moved ԴԴ-ՄԱԾՁԲ-21_11_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Դատական դեպարտամենտ
+------------------------------
+Organization: Երևանի քաղաքապետարան
+Contract Codes:
+searching id is ԵՔ-ՄԱԾՁԲ-23/28
+Button with ID 'scanMenu1' found, returning early.
+searching id is ԵՔ-ՄԱԾՁԲ-23/112
+Clicking on file: [2023-04-14] Պայմանագիր ՄԱԾՁԲ 23-112.pdf
+File renamed successfully to: ԵՔ-ՄԱԾՁԲ-23_112.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Երևանի քաղաքապետարան
+Moved ԵՔ-ՄԱԾՁԲ-23_112.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Երևանի քաղաքապետարան
+searching id is ԵՔ-ՄԱԾՁԲ-23/45
+Clicking on file: [2023-02-23] ՄԱԾՁԲ-23-45.pdf
+File renamed successfully to: ԵՔ-ՄԱԾՁԲ-23_45.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Երևանի քաղաքապետարան
+Moved ԵՔ-ՄԱԾՁԲ-23_45.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Երևանի քաղաքապետարան
+searching id is ԵՔ-ՄԱԾՁԲ-22/16-2
+Clicking on file: [2022-03-02] ԵՔ-ՄԱԾՁԲ-22-16-2 ՊԱՅՄԱՆԱԳԻՐ.pdf
+File renamed successfully to: ԵՔ-ՄԱԾՁԲ-22_16-2.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Երևանի քաղաքապետարան
+Moved ԵՔ-ՄԱԾՁԲ-22_16-2.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Երևանի քաղաքապետարան
+searching id is ԵՔ-ՄԱԾՁԲ-23/114
+Clicking on file: [2023-04-17] Պայմանագիր ՄԱԾՁԲ-23-114.pdf
+File renamed successfully to: ԵՔ-ՄԱԾՁԲ-23_114.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Երևանի քաղաքապետարան
+Moved ԵՔ-ՄԱԾՁԲ-23_114.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Երևանի քաղաքապետարան
+searching id is ԵՔ-ՄԱԾՁԲ-24/41
+Clicking on file: [2024-02-02] Պայմանագիր ՄԱԾՁԲ-24-41.pdf
+File renamed successfully to: ԵՔ-ՄԱԾՁԲ-24_41.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Երևանի քաղաքապետարան
+Moved ԵՔ-ՄԱԾՁԲ-24_41.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Երևանի քաղաքապետարան
+searching id is ԵՔ-ՄԱԾՁԲ-23/113
+Clicking on file: [2023-04-14] Պայմանագիր ՄԱԾՁԲ 23-113.pdf
+File renamed successfully to: ԵՔ-ՄԱԾՁԲ-23_113.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Երևանի քաղաքապետարան
+Moved ԵՔ-ՄԱԾՁԲ-23_113.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Երևանի քաղաքապետարան
+------------------------------
+Organization: Էկոպարեկային ծառայություն
+Contract Codes:
+searching id is «ՇՄՆԱԿ-ՄԱԾՁԲ-23/24»
+Clicking on file: [2023-03-22] պայմանագիր ՄԱԾՁԲ-23-24.pdf
+File renamed successfully to: «ՇՄՆԱԿ-ՄԱԾՁԲ-23_24».pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+Moved «ՇՄՆԱԿ-ՄԱԾՁԲ-23_24».pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+searching id is ՇՄՆԷՊԾ-ՄԱԾՁԲ-24/34
+Clicking on file: [2024-03-06] ՇՄՆԷՊԾ-ՄԱԾՁԲ-24-34.PDF
+File renamed successfully to: ՇՄՆԷՊԾ-ՄԱԾՁԲ-24_34.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+Moved ՇՄՆԷՊԾ-ՄԱԾՁԲ-24_34.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+searching id is ՇՄՆԷՊԾ-ՄԱԾՁԲ-24/85
+Clicking on file: [2024-07-01] ՇՄՆԷՊԾ-ՄԱԾՁԲ-24-85 պայմանագիր.PDF
+File renamed successfully to: ՇՄՆԷՊԾ-ՄԱԾՁԲ-24_85.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+Moved ՇՄՆԷՊԾ-ՄԱԾՁԲ-24_85.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+searching id is ՇՄՆԱԿ-ՄԱԾՁԲ-20/15
+searching id is ՇՄՆԱԿ-ՄԱԾՁԲ-22/23
+searching id is Ա 8024659420
+Clicking on file: [2021-09-17] HC Պայմանագիր.pdf
+File renamed successfully to: Ա 8024659420.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+Moved Ա 8024659420.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+searching id is Ա9911466098
+Clicking on file: [2022-09-20] HC պայմանագիր.pdf
+File renamed successfully to: Ա9911466098.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+Moved Ա9911466098.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+searching id is Ա 8275153773
+Clicking on file: [2020-09-16] HC պայմանագիր.pdf
+File renamed successfully to: Ա 8275153773.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+Moved Ա 8275153773.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+searching id is Ա8792561444
+Clicking on file: [2023-04-10] Ա8792561444.pdf
+File renamed successfully to: Ա8792561444.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+Moved Ա8792561444.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+searching id is «ՇՄՆԱԿ-ՄԱԾՁԲ-23/22»
+Clicking on file: [2023-02-28] ՇՄՆԱԿ-ՄԱԾՁԲ-23-22.pdf
+File renamed successfully to: «ՇՄՆԱԿ-ՄԱԾՁԲ-23_22».pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+Moved «ՇՄՆԱԿ-ՄԱԾՁԲ-23_22».pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Էկոպարեկային ծառայություն
+------------------------------
+Organization: Կոռուպցիայի կանխարգելման հանձնաժողով
+Contract Codes:
+searching id is ԿԿՀ-ԾՁԲ-21/2
+Clicking on file: [2021-07-27] PAYM VX SOFT.PDF
+File renamed successfully to: ԿԿՀ-ԾՁԲ-21_2.PDF
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+Moved ԿԿՀ-ԾՁԲ-21_2.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+searching id is ԿԿՀ-ՄԱԾՁԲ-22/3
+Button with ID 'scanMenu1' found, returning early.
+searching id is ԿԿՀ-ՄԱԾՁԲ-23/5
+Clicking on file: [2023-04-30] VX soft.pdf
+File renamed successfully to: ԿԿՀ-ՄԱԾՁԲ-23_5.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+Moved ԿԿՀ-ՄԱԾՁԲ-23_5.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+searching id is ԿԿՀ-ՄԱԾՁԲ-22/8
+Clicking on file: [2022-12-16] МАOFFICE365.pdf
+File renamed successfully to: ԿԿՀ-ՄԱԾՁԲ-22_8.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+Moved ԿԿՀ-ՄԱԾՁԲ-22_8.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+searching id is ԿԿՀ-ՄԱԾՁԲ-22/7
+Clicking on file: [2022-12-14] PL.pdf
+File renamed successfully to: ԿԿՀ-ՄԱԾՁԲ-22_7.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+Moved ԿԿՀ-ՄԱԾՁԲ-22_7.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+searching id is Բ3521769895
+Clicking on file: [2021-04-12] web studio one.pdf
+File renamed successfully to: Բ3521769895.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+Moved Բ3521769895.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+searching id is Բ7731591910
+Clicking on file: [2021-05-06] HW-111.pdf
+File renamed successfully to: Բ7731591910.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+Moved Բ7731591910.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+searching id is B3835734666
+Clicking on file: [2024-12-20] 20 ծրագրային ապահովում (1).pdf
+File renamed successfully to: B3835734666.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+Moved B3835734666.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+searching id is Ա6732144160
+Clicking on file: [2021-04-01] HM2021.pdf
+File renamed successfully to: Ա6732144160.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+Moved Ա6732144160.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\Կոռուպցիայի կանխարգելման հանձնաժողով
+------------------------------
+Organization: ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+Contract Codes:
+searching id is ՀՀ ԱՄ ՄԱ ԾՁԲ-2022/05
+Clicking on file: [2022-01-31] paymanagir malbri2022.PDF
+File renamed successfully to: ՀՀ ԱՄ ՄԱ ԾՁԲ-2022_05.PDF
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+Moved ՀՀ ԱՄ ՄԱ ԾՁԲ-2022_05.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+searching id is ԱՄ ՄԱ ԾՁԲ-20/04
+Button with ID 'scanMenu1' found, returning early.
+searching id is ԱՄ ՄԱ ԾՁԲ-22/02
+Clicking on file: [2022-01-27] satik-saqo.PDF
+File renamed successfully to: ԱՄ ՄԱ ԾՁԲ-22_02.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+Moved ԱՄ ՄԱ ԾՁԲ-22_02.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+searching id is ԱՄ ՄԱ ԾՁԲ-23/02
+Clicking on file: [2023-01-13] 999.6.PDF
+File renamed successfully to: ԱՄ ՄԱ ԾՁԲ-23_02.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+Moved ԱՄ ՄԱ ԾՁԲ-23_02.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+searching id is ԱՄ ՄԱ ԾՁԲ-24/02
+Clicking on file: [2024-01-08] Satig SPY 02.PDF
+File renamed successfully to: ԱՄ ՄԱ ԾՁԲ-24_02.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+Moved ԱՄ ՄԱ ԾՁԲ-24_02.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+searching id is ԱՄ ՄԱ ԾՁԲ-21/04-1
+Clicking on file: [2021-04-12] 21-04-1.PDF
+File renamed successfully to: ԱՄ ՄԱ ԾՁԲ-21_04-1.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+Moved ԱՄ ՄԱ ԾՁԲ-21_04-1.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+searching id is ԱՄ ՄԱ ԾՁԲ-20/05
+Button with ID 'scanMenu1' found, returning early.
+searching id is ԱՄ ՄԱ ԾՁԲ-21/04
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՀՀ ԱՄ ՄԱ ԾՁԲ-23/14
+Clicking on file: [2023-07-24] Mergelyan 243.0.PDF
+File renamed successfully to: ՀՀ ԱՄ ՄԱ ԾՁԲ-23_14.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+Moved ՀՀ ԱՄ ՄԱ ԾՁԲ-23_14.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+searching id is ԱՄ ՄԱ ԾՁԲ-21/05
+Button with ID 'scanMenu1' found, returning early.
+searching id is ԱՄ ՄԱ ԾՁԲ-20/08
+Clicking on file: [2020-02-27] Haykakan cragrer 105,0.PDF
+File renamed successfully to: ԱՄ ՄԱ ԾՁԲ-20_08.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+Moved ԱՄ ՄԱ ԾՁԲ-20_08.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+searching id is Ա7353822953
+Clicking on file: [2021-05-25] 105.0.PDF
+File renamed successfully to: Ա7353822953.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+Moved Ա7353822953.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+searching id is Ա7047995088
+Clicking on file: [2023-05-31] hc-95.0.PDF
+File renamed successfully to: Ա7047995088.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+Moved Ա7047995088.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+searching id is ԱՄ ՄԱ ԾՁԲ-22/16
+Clicking on file: [2022-08-27] սերվերի 22-16.PDF
+File renamed successfully to: ԱՄ ՄԱ ԾՁԲ-22_16.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+Moved ԱՄ ՄԱ ԾՁԲ-22_16.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+searching id is ԱՄ ՄԱ ՛ՁԲ-23/15
+Clicking on file: [2023-11-09] ՍԵՐՎԵՐ 72.0.PDF
+File renamed successfully to: ԱՄ ՄԱ ՛ՁԲ-23_15.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+Moved ԱՄ ՄԱ ՛ՁԲ-23_15.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+searching id is ԱՄ ՄԱ ԾՁԲ-20/03
+Clicking on file: [2020-02-17] Mergelyan paymanagir.PDF
+File renamed successfully to: ԱՄ ՄԱ ԾՁԲ-20_03.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+Moved ԱՄ ՄԱ ԾՁԲ-20_03.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+searching id is ԱՄ ՄԱ ԾՁԲ-20/04
+Button with ID 'scanMenu1' found, returning early.
+searching id is Բ7568168943
+Clicking on file: [2021-12-16] 50.0.PDF
+File renamed successfully to: Բ7568168943.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+Moved Բ7568168943.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  Արմավիրի մարզպետի աշխատակազմ
+------------------------------
+Organization: ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+Contract Codes:
+searching id is ԱՍՀՆ-ՄԱԾՁԲ-24/22
+Clicking on file: [2024-02-26] ՀԾ պայմանագիր.pdf
+File renamed successfully to: ԱՍՀՆ-ՄԱԾՁԲ-24_22.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+Moved ԱՍՀՆ-ՄԱԾՁԲ-24_22.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+searching id is ԱՍՀՆ-ՄԱԾՁԲ-23/19
+Clicking on file: [2023-01-30] ՀԾ պայմանագիր Ն342-2023.pdf
+File renamed successfully to: ԱՍՀՆ-ՄԱԾՁԲ-23_19.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+Moved ԱՍՀՆ-ՄԱԾՁԲ-23_19.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+searching id is ԱՍՀՆ-ՄԱԾՁԲ-23/26-Խ
+Clicking on file: [2023-07-24] Ham-Kharberd-HC.pdf
+File renamed successfully to: ԱՍՀՆ-ՄԱԾՁԲ-23_26-Խ.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+Moved ԱՍՀՆ-ՄԱԾՁԲ-23_26-Խ.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+Clicking on file: [2023-07-24] ԱՍՀՆ-ՄԱԾՁԲ-23-26-Խ.pdf
+File renamed successfully to: ԱՍՀՆ-ՄԱԾՁԲ-23_26-Խ_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+Moved ԱՍՀՆ-ՄԱԾՁԲ-23_26-Խ_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+searching id is ԱՍՀՆ-ՄԱԾՁԲ-23/27-ՏԻ
+Clicking on file: [2023-07-24] Ham-Tiv 1-HC.pdf
+File renamed successfully to: ԱՍՀՆ-ՄԱԾՁԲ-23_27-ՏԻ.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+Moved ԱՍՀՆ-ՄԱԾՁԲ-23_27-ՏԻ.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+Clicking on file: [2023-07-24] ԱՍՀՆ-ՄԱԾՁԲ-23-27-ՏԻ.pdf
+File renamed successfully to: ԱՍՀՆ-ՄԱԾՁԲ-23_27-ՏԻ_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+Moved ԱՍՀՆ-ՄԱԾՁԲ-23_27-ՏԻ_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+searching id is ԱՍՀՆ-ՄԱԾՁԲ-20/4
+Clicking on file: [2020-01-30] mrk.PDF
+File renamed successfully to: ԱՍՀՆ-ՄԱԾՁԲ-20_4.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+Moved ԱՍՀՆ-ՄԱԾՁԲ-20_4.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+searching id is ԱՍՀՆ-ՄԱԾՁԲ-21/9
+Clicking on file: [2021-02-18] paymanagir storagrvac.pdf
+File renamed successfully to: ԱՍՀՆ-ՄԱԾՁԲ-21_9.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+Moved ԱՍՀՆ-ՄԱԾՁԲ-21_9.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  աշխատանքի և սոցիալական հարցերի նախարարություն
+------------------------------
+Organization: ՀՀ  առողջապահության  նախարարություն
+Contract Codes:
+searching id is ՀՀ ԱՆ ՄԱԾՁԲ-2020/19
+Clicking on file: [2020-05-22] LS-SOFT.pdf
+File renamed successfully to: ՀՀ ԱՆ ՄԱԾՁԲ-2020_19.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  առողջապահության  նախարարություն
+Moved ՀՀ ԱՆ ՄԱԾՁԲ-2020_19.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  առողջապահության  նախարարություն
+searching id is ՀՀ ԱՆ ՄԱԾՁԲ-2022/24
+Clicking on file: [2022-07-15] Scan_20220906_182541.pdf
+There is not exactly one file in the folder.
+['LS-SOFT.pdf', 'Scan_20220906_182541.pdf']
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  առողջապահության  նախարարություն
+Moved LS-SOFT.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  առողջապահության  նախարարություն
+Moved Scan_20220906_182541.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  առողջապահության  նախարարություն
+searching id is A 9266255529
+Clicking on file: [2023-12-12] ՀԾ.pdf
+File renamed successfully to: A 9266255529.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  առողջապահության  նախարարություն
+Moved A 9266255529.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  առողջապահության  նախարարություն
+searching id is ՀՀ ԱՆ ՄԱԾՁԲ-2020/1-1
+Clicking on file: [2020-07-20] 29.07.20.pdf
+File renamed successfully to: ՀՀ ԱՆ ՄԱԾՁԲ-2020_1-1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  առողջապահության  նախարարություն
+Moved ՀՀ ԱՆ ՄԱԾՁԲ-2020_1-1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  առողջապահության  նախարարություն
+------------------------------
+Organization: ՀՀ  արդարադատության նախարարություն
+Contract Codes:
+searching id is ԱՆՀԿԱԾ-ՄԱԾՁԲ-ԾՓ-22/01
+Clicking on file: [2022-04-15] Լսոֆտ.pdf
+File renamed successfully to: ԱՆՀԿԱԾ-ՄԱԾՁԲ-ԾՓ-22_01.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ԱՆՀԿԱԾ-ՄԱԾՁԲ-ԾՓ-22_01.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+searching id is ՀՀԱՆ-ՄԱԾՁԲ-ՀԾ-23/06
+Clicking on file: [2023-01-24] HEXINAKAYIN_IRAVUNQ HC.pdf
+File renamed successfully to: ՀՀԱՆ-ՄԱԾՁԲ-ՀԾ-23_06.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-ՄԱԾՁԲ-ՀԾ-23_06.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Clicking on file: [2023-01-24] Հայկական ծրագրեր պայմանագիր.pdf
+File renamed successfully to: ՀՀԱՆ-ՄԱԾՁԲ-ՀԾ-23_06_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-ՄԱԾՁԲ-ՀԾ-23_06_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+searching id is ՀՀԱՆ-ՄԱԾՁԲ-ՀԾ-24/06
+Clicking on file: [2024-01-18] Պայմանագիր.pdf
+File renamed successfully to: ՀՀԱՆ-ՄԱԾՁԲ-ՀԾ-24_06.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-ՄԱԾՁԲ-ՀԾ-24_06.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+searching id is ՀՀԱՆ-ՄԱԾՁԲ-21/01
+Clicking on file: [2021-01-20] HC.pdf
+File renamed successfully to: ՀՀԱՆ-ՄԱԾՁԲ-21_01.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-ՄԱԾՁԲ-21_01.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+searching id is ՀՀԱՆ-ՄԱԾՁԲ-ՀԾ-22/02
+Clicking on file: [2022-01-27] Haykakan Cragrer.pdf
+File renamed successfully to: ՀՀԱՆ-ՄԱԾՁԲ-ՀԾ-22_02.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-ՄԱԾՁԲ-ՀԾ-22_02.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+searching id is ՀՀԱՆ-ՄԱԾՁԲ-ԿՍ-22/05
+Clicking on file: [2022-02-03] PAYMANAGIR1.pdf
+File renamed successfully to: ՀՀԱՆ-ՄԱԾՁԲ-ԿՍ-22_05.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-ՄԱԾՁԲ-ԿՍ-22_05.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Clicking on file: [2022-02-03] Megasoft.pdf
+File renamed successfully to: ՀՀԱՆ-ՄԱԾՁԲ-ԿՍ-22_05_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-ՄԱԾՁԲ-ԿՍ-22_05_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+searching id is ՀՀԱՆ-ՄԱԾՁԲ-ԿՍ-24/08
+Clicking on file: [2024-01-18] Պայմանագիր.pdf
+File renamed successfully to: ՀՀԱՆ-ՄԱԾՁԲ-ԿՍ-24_08.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-ՄԱԾՁԲ-ԿՍ-24_08.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+searching id is ՀՀԱՆ-ՄԱԾՁԲ-ՀԿՀ-22/03
+Clicking on file: [2022-01-26] Laym tex.pdf
+File renamed successfully to: ՀՀԱՆ-ՄԱԾՁԲ-ՀԿՀ-22_03.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-ՄԱԾՁԲ-ՀԿՀ-22_03.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+searching id is ՀՀԱՆ-ՄԱԾՁԲ-ՀԿՀ-23/05
+Clicking on file: [2023-01-20] PAYMANAGIR_920.pdf
+File renamed successfully to: ՀՀԱՆ-ՄԱԾՁԲ-ՀԿՀ-23_05.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-ՄԱԾՁԲ-ՀԿՀ-23_05.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Clicking on file: [2023-01-20] PAYMANAGIR_360.pdf
+File renamed successfully to: ՀՀԱՆ-ՄԱԾՁԲ-ՀԿՀ-23_05_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-ՄԱԾՁԲ-ՀԿՀ-23_05_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Clicking on file: [2023-01-20] Պայմանագիր Լայմ տեխ.pdf
+File renamed successfully to: ՀՀԱՆ-ՄԱԾՁԲ-ՀԿՀ-23_05_1_2.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-ՄԱԾՁԲ-ՀԿՀ-23_05_1_2.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+searching id is ՀՀԱՆ-ՄԱԾՁԲ-ՀԿՀ-24/07
+Clicking on file: [2024-01-18] Լայմ տեխ Paymanagir_signed_signed_signed.pdf
+File renamed successfully to: ՀՀԱՆ-ՄԱԾՁԲ-ՀԿՀ-24_07.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-ՄԱԾՁԲ-ՀԿՀ-24_07.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+searching id is ՀՀԱՆ-Պ-ՄԱԾՁԲ-ԿՍ-22/01
+Clicking on file: [2022-01-17] Vahan Sargsyan.pdf
+File renamed successfully to: ՀՀԱՆ-Պ-ՄԱԾՁԲ-ԿՍ-22_01.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-Պ-ՄԱԾՁԲ-ԿՍ-22_01.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+searching id is ՀՀԱՆ-Պ-ՄԱԾՁԲ-ԿՍ-23/03
+Clicking on file: [2023-01-17] Վահան Սարգսյան ԱՁ.pdf
+File renamed successfully to: ՀՀԱՆ-Պ-ՄԱԾՁԲ-ԿՍ-23_03.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+Moved ՀՀԱՆ-Պ-ՄԱԾՁԲ-ԿՍ-23_03.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  արդարադատության նախարարություն
+------------------------------
+Organization: ՀՀ  միջուկային անվտանգության կարգավորման  կոմիտե
+Contract Codes:
+searching id is A 0445864649
+Clicking on file: [2024-03-05] HC-PDF.pdf
+File renamed successfully to: A 0445864649.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  միջուկային անվտանգության կարգավորման  կոմիտե
+Moved A 0445864649.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  միջուկային անվտանգության կարգավորման  կոմիտե
+searching id is Ա1211165512
+Clicking on file: [2020-04-01] HC.pdf
+File renamed successfully to: Ա1211165512.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  միջուկային անվտանգության կարգավորման  կոմիտե
+Moved Ա1211165512.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  միջուկային անվտանգության կարգավորման  կոմիտե
+searching id is ՄԱԿԿ-ՄԱԾՁԲ-21/10
+Clicking on file: [2021-04-16] haykakan cra paym.pdf
+File renamed successfully to: ՄԱԿԿ-ՄԱԾՁԲ-21_10.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  միջուկային անվտանգության կարգավորման  կոմիտե
+Moved ՄԱԿԿ-ՄԱԾՁԲ-21_10.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  միջուկային անվտանգության կարգավորման  կոմիտե
+searching id is Ա5490599156
+Clicking on file: [2023-03-03] hc .pdf
+File renamed successfully to: Ա5490599156.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  միջուկային անվտանգության կարգավորման  կոմիտե
+Moved Ա5490599156.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  միջուկային անվտանգության կարգավորման  կոմիտե
+------------------------------
+Organization: ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության միգրացիոն ծառայություն
+Contract Codes:
+searching id is Ա8556293727
+Clicking on file: [2023-03-09] հծ.pdf
+File renamed successfully to: Ա8556293727.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության միգրացիոն ծառայություն
+Moved Ա8556293727.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության միգրացիոն ծառայություն
+searching id is Ա0605615416
+Clicking on file: [2023-07-19] 9000.pdf
+File renamed successfully to: Ա0605615416.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության միգրացիոն ծառայություն
+Moved Ա0605615416.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության միգրացիոն ծառայություն
+------------------------------
+Organization: ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Contract Codes:
+searching id is ՋԿ-ՄԱԾՁԲ-23/2
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՋԿ-ՄԱԾՁԲ-24/5
+Clicking on file: [2024-02-07] Paym.-Vi-X-Soft-24.pdf
+File renamed successfully to: ՋԿ-ՄԱԾՁԲ-24_5.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Moved ՋԿ-ՄԱԾՁԲ-24_5.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+searching id is ՋԿ-ՄԱԾՁԲ-20/6
+Clicking on file: [2020-01-30] Paymanagir 2020 Mul.pdf
+File renamed successfully to: ՋԿ-ՄԱԾՁԲ-20_6.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Moved ՋԿ-ՄԱԾՁԲ-20_6.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+searching id is ՋԿ-ՄԱԾՁԲ-21/6
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՋԿ-ՄԱԾՁԲ-22/5
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՋԿ-ՄԱԾՁԲ-22/8
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՋԿ-ՄԱԾՁԲ-23/5
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՋԿ-ՄԱԾՁԲ-24/3
+Button with ID 'scanMenu1' found, returning early.
+searching id is A1305029847
+Clicking on file: [2024-10-09] HC.pdf
+File renamed successfully to: A1305029847.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Moved A1305029847.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+searching id is Ա2640611938
+Clicking on file: [2020-11-17] elips.pdf
+File renamed successfully to: Ա2640611938.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Moved Ա2640611938.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+searching id is Ա7018645248
+Clicking on file: [2022-10-27] ՀԾ 2022.pdf
+File renamed successfully to: Ա7018645248.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Moved Ա7018645248.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+searching id is A 6861076016
+Clicking on file: [2023-10-05] HC2023.pdf
+File renamed successfully to: A 6861076016.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Moved A 6861076016.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+searching id is Ա5372257653
+Clicking on file: [2021-09-27] HC.pdf
+File renamed successfully to: Ա5372257653.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Moved Ա5372257653.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+searching id is Ա5668654540
+Clicking on file: [2020-09-24] HC.pdf
+File renamed successfully to: Ա5668654540.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Moved Ա5668654540.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+searching id is ՋԿ-ՄԱԾՁԲ-20/5
+Clicking on file: [2020-01-31] Paymanagir 2020 Hrshej.pdf
+File renamed successfully to: ՋԿ-ՄԱԾՁԲ-20_5.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Moved ՋԿ-ՄԱԾՁԲ-20_5.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+searching id is ՋԿ-ՄԱԾՁԲ-20/14
+Clicking on file: [2020-02-03] Hexinakayin.pdf
+File renamed successfully to: ՋԿ-ՄԱԾՁԲ-20_14.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Moved ՋԿ-ՄԱԾՁԲ-20_14.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Clicking on file: [2020-02-03] MRKTpaym2020.pdf
+File renamed successfully to: ՋԿ-ՄԱԾՁԲ-20_14_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Moved ՋԿ-ՄԱԾՁԲ-20_14_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+searching id is ՋԿ-ՄԱԾՁԲ-22/2
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՋԿ-ԳՀԾՁԲ-21/4
+Clicking on file: [2021-01-27] Hexinakayin.pdf
+File renamed successfully to: ՋԿ-ԳՀԾՁԲ-21_4.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Moved ՋԿ-ԳՀԾՁԲ-21_4.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Clicking on file: [2021-01-27] PaymanagirMRKT.pdf
+File renamed successfully to: ՋԿ-ԳՀԾՁԲ-21_4_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+Moved ՋԿ-ԳՀԾՁԲ-21_4_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ  տարածքային կառավարման և ենթակառուցվածքների նախարարության ջրային կոմիտե
+------------------------------
+Organization: ՀՀ Ազգային ժողով
+Contract Codes:
+searching id is ՀՀ ԱԺ ՄԱԾՁԲ-23/4
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՀՀ ԱԺ ՄԱԾՁԲ-24/5
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՀՀ ԱԺ ՄԱԾՁԲ-20/26
+Clicking on file: [2020-02-27] Paymanagir-HC-19.8.pdf
+File renamed successfully to: ՀՀ ԱԺ ՄԱԾՁԲ-20_26.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Ազգային ժողով
+Moved ՀՀ ԱԺ ՄԱԾՁԲ-20_26.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Ազգային ժողով
+Clicking on file: [2020-02-27] paymanagir 20.26.PDF
+File renamed successfully to: ՀՀ ԱԺ ՄԱԾՁԲ-20_26_1.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Ազգային ժողով
+Moved ՀՀ ԱԺ ՄԱԾՁԲ-20_26_1.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Ազգային ժողով
+Clicking on file: [2020-02-27] MA20.26.PDF
+File renamed successfully to: ՀՀ ԱԺ ՄԱԾՁԲ-20_26_1_2.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Ազգային ժողով
+Moved ՀՀ ԱԺ ՄԱԾՁԲ-20_26_1_2.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Ազգային ժողով
+searching id is ՀՀ ԱԺ ՄԱԾՁԲ-22/2
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՀՀ ԱԺ ՄԱԾՁԲ-23/2
+Button with ID 'scanMenu1' found, returning early.
+searching id is ՀՀ ԱԺ ՄԱԾՁԲ-20/30
+Clicking on file: [2020-03-16] paymanagir 20.30.pdf
+File renamed successfully to: ՀՀ ԱԺ ՄԱԾՁԲ-20_30.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Ազգային ժողով
+Moved ՀՀ ԱԺ ՄԱԾՁԲ-20_30.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Ազգային ժողով
+------------------------------
+Organization: ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+Contract Codes:
+searching id is ՀՀԱՄ-ՄԱԾՁԲ-23/18
+Clicking on file: [2023-01-25] Paymanagir_VXSOFT.pdf
+File renamed successfully to: ՀՀԱՄ-ՄԱԾՁԲ-23_18.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+Moved ՀՀԱՄ-ՄԱԾՁԲ-23_18.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+searching id is ՀՀԱՄ-ՄԱԾՁԲ-24/16
+Clicking on file: [2024-01-25] պայմանագիր-Մալբերի.pdf
+File renamed successfully to: ՀՀԱՄ-ՄԱԾՁԲ-24_16.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+Moved ՀՀԱՄ-ՄԱԾՁԲ-24_16.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+searching id is ՀՀԱՄ-ՄԱԾՁԲ-22/10
+Clicking on file: [2022-01-31] paymanagir-VXSOFT_signed_signed_signed.pdf
+File renamed successfully to: ՀՀԱՄ-ՄԱԾՁԲ-22_10.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+Moved ՀՀԱՄ-ՄԱԾՁԲ-22_10.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+searching id is 20221101
+searching id is 20230901
+Clicking on file: [2023-09-01] Paymanagir_Astarkon.pdf
+File renamed successfully to: 20230901.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+Moved 20230901.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+searching id is ՀՀԱՄ-ՄԱԾՁԲ-23/19
+Clicking on file: [2023-11-02] paymanagir-signed_signed_signed_signed.pdf
+File renamed successfully to: ՀՀԱՄ-ՄԱԾՁԲ-23_19.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+Moved ՀՀԱՄ-ՄԱԾՁԲ-23_19.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+searching id is ՀՀԱՄ-ՄԱԾՁԲ-24/17
+Clicking on file: [2024-01-25] HTS-Paymanagir.pdf
+File renamed successfully to: ՀՀԱՄ-ՄԱԾՁԲ-24_17.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+Moved ՀՀԱՄ-ՄԱԾՁԲ-24_17.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+searching id is ՀՀԱՄ-ՀԾ-ՄԱԾՁԲ-20/01
+searching id is ՀՀԱՄ-ԳՀԾՁԲ-21/12
+Clicking on file: [2021-03-17] Paymanagir_Haykakan Tsragrer.pdf
+File renamed successfully to: ՀՀԱՄ-ԳՀԾՁԲ-21_12.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+Moved ՀՀԱՄ-ԳՀԾՁԲ-21_12.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+searching id is ՀՀԱՄ-ՄԱԾՁԲ-22/15
+Clicking on file: [2022-02-16] PAYM_2022.pdf
+File renamed successfully to: ՀՀԱՄ-ՄԱԾՁԲ-22_15.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+Moved ՀՀԱՄ-ՄԱԾՁԲ-22_15.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+searching id is ՀՀԱՄ-ՄԱԾՁԲ-23/23
+Clicking on file: [2023-03-20] Paym_HTS.pdf
+File renamed successfully to: ՀՀԱՄ-ՄԱԾՁԲ-23_23.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+Moved ՀՀԱՄ-ՄԱԾՁԲ-23_23.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արագածոտնի մարզպետի աշխատակազմ
+------------------------------
+Organization: ՀՀ Արարատի մարզպետի աշխատակազմ
+Contract Codes:
+searching id is ԱՄ-ՄԱ-ԾՁԲ-23/2-ԱՄ
+Clicking on file: [2023-02-08] Malbri-P.PDF
+File renamed successfully to: ԱՄ-ՄԱ-ԾՁԲ-23_2-ԱՄ.PDF
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+Moved ԱՄ-ՄԱ-ԾՁԲ-23_2-ԱՄ.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+Clicking on file: [2023-02-08] 23 2 am c.PDF
+File renamed successfully to: ԱՄ-ՄԱ-ԾՁԲ-23_2-ԱՄ_1.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+Moved ԱՄ-ՄԱ-ԾՁԲ-23_2-ԱՄ_1.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+searching id is ԱՄ-ՄԱ-ԾՁԲ-24/2-ԱՄ
+Clicking on file: [2024-02-22] ԱՄ-ՄԱ-ԾՁԲ-242-ԱՄ պայգիր.pdf
+File renamed successfully to: ԱՄ-ՄԱ-ԾՁԲ-24_2-ԱՄ.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+Moved ԱՄ-ՄԱ-ԾՁԲ-24_2-ԱՄ.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+searching id is ԱՄ-ՄԱ-ԾՁԲ-22/4-ԱՄ
+Clicking on file: [2022-02-28] Malbri-22.PDF
+File renamed successfully to: ԱՄ-ՄԱ-ԾՁԲ-22_4-ԱՄ.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+Moved ԱՄ-ՄԱ-ԾՁԲ-22_4-ԱՄ.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+searching id is ԱՄ-ՄԱ-ԾՁԲ-21/4-ԱՄ
+Clicking on file: [2021-02-12] Malbri-P.PDF
+File renamed successfully to: ԱՄ-ՄԱ-ԾՁԲ-21_4-ԱՄ.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+Moved ԱՄ-ՄԱ-ԾՁԲ-21_4-ԱՄ.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+searching id is ԱՄ-ՄԱ-ԾՁԲ-21/1-ԱՄ
+Button with ID 'scanMenu1' found, returning early.
+searching id is ԱՄ-ՄԱ-ԾՁԲ-20/05-ԱՄ
+Clicking on file: [2020-03-02] LSOFT.PDF
+File renamed successfully to: ԱՄ-ՄԱ-ԾՁԲ-20_05-ԱՄ.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+Moved ԱՄ-ՄԱ-ԾՁԲ-20_05-ԱՄ.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+searching id is ԱՄ-ՄԱԾՁԲ-20/03-ԱՄ
+Clicking on file: [2020-02-17] 115-P.PDF
+File renamed successfully to: ԱՄ-ՄԱԾՁԲ-20_03-ԱՄ.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+Moved ԱՄ-ՄԱԾՁԲ-20_03-ԱՄ.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+searching id is Ա6753288580
+Clicking on file: [2024-03-11] 11.PDF
+File renamed successfully to: Ա6753288580.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+Moved Ա6753288580.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+searching id is ԱՄ-ՄԱԾՁԲ-20/04-ԱՄ
+Clicking on file: [2020-02-17] 95-P.PDF
+File renamed successfully to: ԱՄ-ՄԱԾՁԲ-20_04-ԱՄ.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+Moved ԱՄ-ՄԱԾՁԲ-20_04-ԱՄ.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+searching id is Ա 3090411063
+Clicking on file: [2021-03-04] Hashvapah.PDF
+File renamed successfully to: Ա 3090411063.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+Moved Ա 3090411063.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+searching id is Ա 6362105030
+Clicking on file: [2023-03-07] ՀԾ-Պ.PDF
+File renamed successfully to: Ա 6362105030.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+Moved Ա 6362105030.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+searching id is ՀՀԱՄ-ԾՁԲ-21/5
+Clicking on file: [2021-03-25] 72-P.PDF
+File renamed successfully to: ՀՀԱՄ-ԾՁԲ-21_5.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+Moved ՀՀԱՄ-ԾՁԲ-21_5.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Արարատի մարզպետի աշխատակազմ
+------------------------------
+Organization: ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Contract Codes:
+searching id is ՀՀ ԳՄ ՄԱԾՁԲ-12/23
+Clicking on file: [2023-01-18] vxs.pdf
+File renamed successfully to: ՀՀ ԳՄ ՄԱԾՁԲ-12_23.pdf
+Created new folder: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ ՄԱԾՁԲ-12_23.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is ՀՀ ԳՄ ՄԱԾՁԲ-24/13
+Clicking on file: [2024-01-25] vixsoft.pdf
+File renamed successfully to: ՀՀ ԳՄ ՄԱԾՁԲ-24_13.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ ՄԱԾՁԲ-24_13.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is ՀՀ ԳՄ ԳՀԾՁԲ-21/5
+Clicking on file: [2021-01-20] vix.pdf
+File renamed successfully to: ՀՀ ԳՄ ԳՀԾՁԲ-21_5.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ ԳՀԾՁԲ-21_5.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is ՀՀ ԳՄ ԳՀԾՁԲ-16/22
+Clicking on file: [2022-01-24] vx (7).pdf
+File renamed successfully to: ՀՀ ԳՄ ԳՀԾՁԲ-16_22.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ ԳՀԾՁԲ-16_22.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Clicking on file: [2022-01-24] vx (8).pdf
+File renamed successfully to: ՀՀ ԳՄ ԳՀԾՁԲ-16_22_1.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ ԳՀԾՁԲ-16_22_1.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is ՀՀ ԳՄ-ՄԱԾՁԲ-20/15
+Clicking on file: [2020-02-27] avirus.PDF
+File renamed successfully to: ՀՀ ԳՄ-ՄԱԾՁԲ-20_15.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ-ՄԱԾՁԲ-20_15.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is ՀՀ ԳՄ ՄԱԾՁԲ-21/7
+Clicking on file: [2021-01-22] edg1.pdf
+File renamed successfully to: ՀՀ ԳՄ ՄԱԾՁԲ-21_7.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ ՄԱԾՁԲ-21_7.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is ՀՀ ԳՄ ՄԱԾՁԲ-14/22
+Clicking on file: [2022-01-17] av (2).pdf
+File renamed successfully to: ՀՀ ԳՄ ՄԱԾՁԲ-14_22.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ ՄԱԾՁԲ-14_22.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is ՀՀ ԳՄ ՄԱԾՁԲ-43/23
+Clicking on file: [2023-12-08] anti.pdf
+File renamed successfully to: ՀՀ ԳՄ ՄԱԾՁԲ-43_23.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ ՄԱԾՁԲ-43_23.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is ՀՀ ԳՄ ՄԱԾՁԲ-24/27
+Clicking on file: [2024-07-17] AV (4).pdf
+File renamed successfully to: ՀՀ ԳՄ ՄԱԾՁԲ-24_27.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ ՄԱԾՁԲ-24_27.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is ՀՀ ԳՄ-ՄԱԾՁԲ-20/07
+Clicking on file: [2020-02-22] mmg.PDF
+File renamed successfully to: ՀՀ ԳՄ-ՄԱԾՁԲ-20_07.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ-ՄԱԾՁԲ-20_07.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Clicking on file: [2020-01-22] mmg.PDF
+File renamed successfully to: ՀՀ ԳՄ-ՄԱԾՁԲ-20_07_1.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ-ՄԱԾՁԲ-20_07_1.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is ՀՀ ԳՄ ՄԱԾՁԲ-21/6
+Clicking on file: [2021-01-22] mg (3).pdf
+File renamed successfully to: ՀՀ ԳՄ ՄԱԾՁԲ-21_6.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ ՄԱԾՁԲ-21_6.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is ՀՀ ԳՄ ՄԱԾՁԲ-13/22
+Clicking on file: [2022-01-17] mg (2).pdf
+File renamed successfully to: ՀՀ ԳՄ ՄԱԾՁԲ-13_22.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ ՄԱԾՁԲ-13_22.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is ՀՀ ԳՄ ՄԱԾՁԲ-23/23
+Clicking on file: [2023-06-06] mergelyan.pdf
+File renamed successfully to: ՀՀ ԳՄ ՄԱԾՁԲ-23_23.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ ՄԱԾՁԲ-23_23.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is A4038087150
+Clicking on file: [2024-03-25] HC (6).pdf
+File renamed successfully to: A4038087150.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved A4038087150.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is ՀՀ ԳՄ-ՄԱԾՁԲ-20/17
+Clicking on file: [2020-03-20] HC (3).PDF
+File renamed successfully to: ՀՀ ԳՄ-ՄԱԾՁԲ-20_17.PDF
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ-ՄԱԾՁԲ-20_17.PDF to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is ՀՀ ԳՄ-ՄԱԾՁԲ-21/15
+Clicking on file: [2021-03-20] hc.pdf
+File renamed successfully to: ՀՀ ԳՄ-ՄԱԾՁԲ-21_15.pdf
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Moved ՀՀ ԳՄ-ՄԱԾՁԲ-21_15.pdf to C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+searching id is Ա4015929530
+Clicking on file: [2022-03-22] hc (3).pdf
+There is not exactly one file in the folder.
+[]
+Folder already exists: C:\Users\artur.sahakyan\Desktop\specific_contract_doc\ՀՀ Գեղարքունիքի մարզպետի աշխատակազմ
+Traceback (most recent call last):
+  File "C:\Users\artur.sahakyan\source\repos\contracts\contracts\contracts.py", line 249, in <module>
+    get_contract(code)
+  File "C:\Users\artur.sahakyan\source\repos\contracts\contracts\contracts.py", line 227, in get_contract
+    install_files(driver, cont_id)
+  File "C:\Users\artur.sahakyan\source\repos\contracts\contracts\contracts.py", line 176, in install_files
+    install_files(driver, file_name)
+  File "C:\Users\artur.sahakyan\source\repos\contracts\contracts\contracts.py", line 153, in install_files
+    button = driver.find_element(By.ID, "scanMenu0")
+  File "C:\Users\artur.sahakyan\AppData\Roaming\Python\Python39\site-packages\selenium\webdriver\remote\webdriver.py", line 770, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\artur.sahakyan\AppData\Roaming\Python\Python39\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\artur.sahakyan\AppData\Roaming\Python\Python39\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="scanMenu0"]"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+        GetHandleVerifier [0x00007FF6852C5335+78597]
+        GetHandleVerifier [0x00007FF6852C5390+78688]
+        (No symbol) [0x00007FF6850791AA]
+        (No symbol) [0x00007FF6850CF149]
+        (No symbol) [0x00007FF6850CF3FC]
+        (No symbol) [0x00007FF685122467]
+        (No symbol) [0x00007FF6850F712F]
+        (No symbol) [0x00007FF68511F2BB]
+        (No symbol) [0x00007FF6850F6EC3]
+        (No symbol) [0x00007FF6850C03F8]
+        (No symbol) [0x00007FF6850C1163]
+        GetHandleVerifier [0x00007FF68556EEED+2870973]
+        GetHandleVerifier [0x00007FF685569698+2848360]
+        GetHandleVerifier [0x00007FF685586973+2967875]
+        GetHandleVerifier [0x00007FF6852E017A+188746]
+        GetHandleVerifier [0x00007FF6852E845F+222255]
+        GetHandleVerifier [0x00007FF6852CD2B4+111236]
+        GetHandleVerifier [0x00007FF6852CD462+111666]
+        GetHandleVerifier [0x00007FF6852B3589+5465]
+        BaseThreadInitThunk [0x00007FFD094BE8D7+23]
+        RtlUserThreadStart [0x00007FFD0A39FBCC+44]
+
+Press any key to continue . . .
