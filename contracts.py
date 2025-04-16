@@ -13,16 +13,13 @@ import os
 
 
 
-
 def rename_file(new_name_without_extension):
     
-    # Folder where the file is located
     folder_path = "C:\\Users\\artur.sahakyan\\Desktop\\all_doc"
-    
+    download_complete(folder_path)
     
     # Step 1: Get the list of files in the folder
     files = os.listdir(folder_path)
-    
     # Step 2: Check if there is exactly one file in the folder
     if len(files) == 1:
         old_file_name = files[0]  # Get the first (and only) file name
@@ -45,40 +42,9 @@ def rename_file(new_name_without_extension):
         except Exception as e:
             print(f"An error occurred: {e}")
     else:
-
-      
-
         print("There is not exactly one file in the folder.")
         print(files)
 
-
-
-
-'''
-def rename_file(file_name):
-    
-
-    # Specify the folder path and the current file name
-    folder_path = download_dir  # Replace with your folder path
-    
-    files = os.listdir(folder_path)
-
-    # Check if there is exactly one file in the folder
-    if len(files) == 1:
-        old_file_name = files[0]  # Get the first (and only) file name
-        new_file_name = file_name  # Replace with the new desired file name
-    
-        # Create full paths for old and new file names
-        old_file_path = os.path.join(folder_path, old_file_name)
-        new_file_path = os.path.join(folder_path, new_file_name)
-    
-        # Rename the file
-        os.rename(old_file_path, new_file_path)
-    
-        print(f"File renamed from '{old_file_name}' to '{new_file_name}'")
-    else:
-        print("There is not exactly one file in the folder.")
-'''
 
 
 def sanitize_windows_filename(name):
@@ -91,9 +57,10 @@ def move_files_to_new_folder(source_folder, new_folder_name):
     new_folder = os.path.join(source_folder, new_folder_name)
     if not os.path.exists(new_folder):
         os.makedirs(new_folder)
-        print(f"Created new folder: {new_folder}")
+        #print(f"Created new folder: {new_folder}")
     else:
-        print(f"Folder already exists: {new_folder}")
+        pass
+        #print(f"Folder already exists: {new_folder}")
     
     # Step 2: Move all files from the source folder to the new folder
     files = os.listdir(source_folder)  # List all files in the source folder
@@ -125,6 +92,22 @@ download_dir = "C:\\Users\\artur.sahakyan\\Desktop\\all_doc"
 new_folder_name_path = " "
 
 
+
+def download_complete(folder):
+    
+    while any(filename.endswith(".crdownload") for filename in os.listdir(folder)):
+        print("Download in progress... waiting.")
+        time.sleep(1)
+    # When the loop exits, all downloads are done
+    print("Download finished.")
+
+#print("All downloads done. Moving files...")
+
+
+
+
+
+
 def install_files(driver, file_name):
     global count, installing_files, new_folder_name_path
     
@@ -153,7 +136,7 @@ def install_files(driver, file_name):
         file_id = link.get_attribute("href").split('id=')[-1]
         
         link_text = link.text
-        print("text is ")
+        #print("text is ")
         if (link_text.endswith('.pdf') or link_text.endswith('.PDF')) and (file_id not in installing_files): 
             print(f"Clicking on file: {link_text}") 
             link.click()
@@ -231,42 +214,47 @@ def get_contract(cont_id):
 T = False
 
 specific_code = "ՀՀ Ո ՄԱԾՁԲ-2023-ԱՎՎ/ԾԱՍ/Ա-16"
-
+specific_code = "ՀԿԱԾ-ԶԹ 2021/1"
 #while True
 #    get_contract(specific_code)
 
 
 
 
-with open("contact_id_with_downloaded_files.txt", "W", encoding='utf-8') as file:
+with open("contact_id_with_downloaded_files.txt", "a", encoding='utf-8') as file:
     for organization, contract_codes in data_list.items():
         
-        file.write(f"{organization}\n")
-        print(f"Organization: {organization}")
-        print("Contract Codes:")
+
+        if organization == "ՀՀ ներքին գործերի նախարարություն":
+            file.write(f"------------------------------------------------------------------------------------------\n")
+            file.write(f"{organization}\n")
+            print(f"Organization: {organization}")
+            print("Contract Codes:")
     
-        updated_folder_name = sanitize_windows_filename(organization)
-        new_folder_name_path = f"C:\\Users\\artur.sahakyan\\Desktop\\specific_contract_doc\\{updated_folder_name}"
+            updated_folder_name = sanitize_windows_filename(organization)
+            new_folder_name_path = f"C:\\Users\\artur.sahakyan\\Desktop\\specific_contract_doc\\{updated_folder_name}"
 
 
 
-        # Iterate over the list of contract codes for the current organization
-        for code in contract_codes:
-            '''
-            if code == "Ա4015929530":
-                file.write(f"------------------------------------------------------------------------------------------\n")
-                T = True
-                continue
-
-            if T == False:
-                continue
-            '''
+            # Iterate over the list of contract codes for the current organization
+            for code in contract_codes:
             
-            count = 0
-            get_contract(code)
-            file.write(f"   {code}  -----   {count}\n")
 
-        print("-" * 30)  # Print a separator line between organizations
+                '''
+                if code == "ՀՀ Ո ՄԱԾՁԲ-2023-ԱՎՎ/ԾԱՍ/Ա-14":
+                    file.write(f"------------------------------------------------------------------------------------------\n")
+                    T = True
+                    continue
+
+                if T == False:
+                    continue
+                '''           
+            
+                count = 0
+                get_contract(code)
+                file.write(f"   {code}  -----   {count}\n")
+
+            print("-" * 30)  # Print a separator line between organizations
 
 driver.refresh()
 
